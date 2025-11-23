@@ -1,4 +1,4 @@
-name: CI - Step by Step
+name: CD
 
 on:
   push:
